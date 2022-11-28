@@ -24,13 +24,13 @@ const CoursesCart = ({ singleCourse, setModal }) => {
             <p>{description} </p>
           )}
           <div>
-            <button
+            <label
               onClick={() => setModal(singleCourse)}
               htmlFor="my-modal"
-              
+              className='btn btn-outline'
             >
-              BUY NOW
-            </button>
+              Buy Now
+            </label>
           </div>
         </div>
       </div>
