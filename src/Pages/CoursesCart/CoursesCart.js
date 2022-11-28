@@ -2,7 +2,7 @@ import React from 'react';
 
 
 
-
+//product card
 const CoursesCart = ({ singleCourse, setModal }) => {
   const { description, image, price, name, location, original, years } =
     singleCourse;
