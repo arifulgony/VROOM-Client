@@ -4,6 +4,7 @@ import appointment from "../../../assets/images/appointment.png";
 import PrimaryButton from "../../../components/PrimaryButton/PrimaryButton";
 
 const Leptop = () => {
+  //product
   return (
     <section
       className="mt-32"
