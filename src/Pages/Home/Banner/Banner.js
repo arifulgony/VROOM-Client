@@ -1,6 +1,7 @@
 import React from 'react';
 import car from "../../../assets/images/rider-car-1.png";
 import '../Home.css'
+//banner
 const Banner = () => {
     return (
       <div className='benar'>
