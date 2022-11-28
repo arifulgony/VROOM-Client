@@ -268,11 +268,5 @@ const AddDoctor = () => {
   );
 };
 
-/**
- * Three places to store images
- * 1. Third party image hosting server
- * 2. File system of your server
- * 3. mongodb (database)
- */
 
 export default AddDoctor;
